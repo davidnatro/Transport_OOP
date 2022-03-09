@@ -1,0 +1,12 @@
+/Users/davidnatroshvili/Projects/Transport/EKRLib/bin/Debug/net5.0/EKRLib.deps.json
+/Users/davidnatroshvili/Projects/Transport/EKRLib/bin/Debug/net5.0/EKRLib.dll
+/Users/davidnatroshvili/Projects/Transport/EKRLib/bin/Debug/net5.0/ref/EKRLib.dll
+/Users/davidnatroshvili/Projects/Transport/EKRLib/bin/Debug/net5.0/EKRLib.pdb
+/Users/davidnatroshvili/Projects/Transport/EKRLib/obj/Debug/net5.0/EKRLib.csproj.AssemblyReference.cache
+/Users/davidnatroshvili/Projects/Transport/EKRLib/obj/Debug/net5.0/EKRLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidnatroshvili/Projects/Transport/EKRLib/obj/Debug/net5.0/EKRLib.AssemblyInfoInputs.cache
+/Users/davidnatroshvili/Projects/Transport/EKRLib/obj/Debug/net5.0/EKRLib.AssemblyInfo.cs
+/Users/davidnatroshvili/Projects/Transport/EKRLib/obj/Debug/net5.0/EKRLib.csproj.CoreCompileInputs.cache
+/Users/davidnatroshvili/Projects/Transport/EKRLib/obj/Debug/net5.0/EKRLib.dll
+/Users/davidnatroshvili/Projects/Transport/EKRLib/obj/Debug/net5.0/ref/EKRLib.dll
+/Users/davidnatroshvili/Projects/Transport/EKRLib/obj/Debug/net5.0/EKRLib.pdb

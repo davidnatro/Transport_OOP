@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transport", "Transport\Transport.csproj", "{FF53EBE9-7F8B-47F0-9EA2-EBB4CE9B4CC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EKRLib", "EKRLib\EKRLib.csproj", "{02290EE1-7FE3-4917-9491-20CEDC0697FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF53EBE9-7F8B-47F0-9EA2-EBB4CE9B4CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF53EBE9-7F8B-47F0-9EA2-EBB4CE9B4CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF53EBE9-7F8B-47F0-9EA2-EBB4CE9B4CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF53EBE9-7F8B-47F0-9EA2-EBB4CE9B4CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02290EE1-7FE3-4917-9491-20CEDC0697FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02290EE1-7FE3-4917-9491-20CEDC0697FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02290EE1-7FE3-4917-9491-20CEDC0697FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02290EE1-7FE3-4917-9491-20CEDC0697FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A1E84CD-8DF1-4286-A214-FB76EA693CCE}
+	EndGlobalSection
+EndGlobal
